@@ -130,7 +130,7 @@ function Home() {
           </Typography>
           <Collapse in={open}>
             <Alert severity="success">
-              This is a success alert — check it out!
+              เพิ่มรายการสำเร็จ!
             </Alert>
           </Collapse>
         </div>
